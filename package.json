@@ -1,0 +1,8 @@
+{
+  "name": "trading-bot-dummy",
+  "version": "1.0.0",
+  "description": "Dummy config for Builder preview",
+  "scripts": {
+    "dev": "echo \"Python CLI app running\""
+  }
+}
