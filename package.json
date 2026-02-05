@@ -1,8 +1,8 @@
 {
-  "name": "trading-bot-dummy",
+  "name": "dummy-server",
   "version": "1.0.0",
-  "description": "Dummy config for Builder preview",
+  "private": true,
   "scripts": {
-    "dev": "echo \"Python CLI app running\""
+    "dev": "node server.js"
   }
 }
